@@ -62,9 +62,7 @@ Personal Portfolio built with Next.js.
 <a href="https://www.linkedin.com/in/mohamed-alaa-0069a6246/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="20" align="center" alt="LinkedIn"/> LinkedIn
 </a>
-
-  
-
+ / 
 <a href="https://portfolio-phi-three-bqbwg3gbne.vercel.app/">
 🌐 Portfolio
 </a>
